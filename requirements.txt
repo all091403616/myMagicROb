@@ -1,7 +1,7 @@
 decorator==4.4.2
 certifi==2018.8.24
 cryptography==2.6.1
-urllib3==1.24.1
+urllib3==1.24.2
 future==0.16.0
 tornado==6.0.4
 ujson==2.0.3
